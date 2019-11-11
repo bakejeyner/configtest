@@ -1,0 +1,23 @@
+{
+  "summary": {
+    "title": "My Threat Model",
+    "owner": "Me",
+    "description": "Client Server System"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Client Server Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      },
+      {
+        "title": "My Other Diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
+      }
+    ],
+    "reviewer": "Also Me"
+  }
+}
