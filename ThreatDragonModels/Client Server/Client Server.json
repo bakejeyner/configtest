@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Client Server",
+    "owner": "Me",
+    "description": "Client Server with database"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "ClientServer",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Also me"
+  }
+}
